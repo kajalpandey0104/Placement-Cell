@@ -6,7 +6,7 @@
 </p>
 
 ## Hosted Link
-- [Explore]()
+- [Explore](https://placement-cell-2kmu.onrender.com)
 ## Features
 
 - Sign up / Sign in forms for employees
